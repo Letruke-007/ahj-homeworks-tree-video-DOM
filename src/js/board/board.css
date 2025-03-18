@@ -16,5 +16,5 @@
     height: var(--board-cell-size, 64px);
     padding: 8px;
     background-color: #151515;
-    border-radius: 50%;
+    border-radius: 5%;
 }
